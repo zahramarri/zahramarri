@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zrimri
+- 👋 Hi, I’m @zahramarri
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning how to build android applications in Kotlin
 - 💞️ I’m looking to collaborate on challanging kotlin application projects 
