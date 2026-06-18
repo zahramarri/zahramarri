@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @zahramarri
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning how to build android applications in Kotlin
-- 💞️ I’m looking to collaborate on challanging kotlin application projects 
-- 📫 Reach me by my email address: zahramarri.dev@gmail.com
+# Hi, I'm Zahra 👋
+
+I'm transitioning into data analysis after exploring Android development.
+
+Currently learning:
+- Python
+- Pandas
+- Data Visualization
+- Statistics
+
+My interests:
+- Turning data into insights
+- Building meaningful projects
+- Learning continuously
+
+## Tools
+Python | Pandas | NumPy | Matplotlib | SQL
+
+Reach me by my email address: zahramarri.dev@gmail.com
